@@ -1,0 +1,33 @@
+PROJECT REPORT
+Iyengar Bakery — Retail Sales Dashboard & Management System
+
+1. INTRODUCTION
+This project is a desktop-based retail sales and inventory management application for a bakery. It provides a simple interface to manage products, record customer sales, monitor stock and review business performance.
+
+2. OBJECTIVES
+- Maintain a digital catalogue of bakery products and prices.
+- Record sales and automatically update available stock.
+- Identify products that have reached their low-stock threshold.
+- Display sales summaries and charts for quick business review.
+- Import and export product and sales data using CSV files.
+
+3. TECHNOLOGIES USED
+Python, Tkinter, Pandas, Matplotlib and CSV file storage.
+
+4. MODULES
+Dashboard: Shows total revenue, number of sales, active products and low-stock products. It also displays revenue and popular-product charts.
+Product Catalogue: Supports adding, editing, searching, filtering, importing and exporting products.
+Sales Entry: Records a product, quantity and date. The system calculates the total and reduces stock after validation.
+Sales Records: Displays saved transactions, supports searching and exporting, and allows a selected sale to be deleted while restoring stock.
+
+5. DATA STORAGE
+The application stores products in products.csv and transactions in sales.csv. The files are located in the application folder and use relative paths based on the location of main.py.
+
+6. VALIDATION AND RELIABILITY
+The program checks product IDs, required names, prices, stock quantities, dates and sale quantities. It prevents sales that exceed available stock. CSV writes use a temporary file before replacing the original file.
+
+7. SAMPLE DATA
+The project includes sample bakery products such as veg puff, paneer puff, buns, dil pasand, honey cake, rusk, biscuits, sandwich and samosa, along with sample sales transactions. The data is provided for demonstration and can be edited.
+
+8. CONCLUSION
+The Iyengar Bakery Retail Sales Dashboard & Management System demonstrates how Python desktop GUI programming and CSV data handling can simplify everyday bakery operations. It combines inventory management, sales recording and basic business analytics in one application.

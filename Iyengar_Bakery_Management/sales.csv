@@ -1,0 +1,31 @@
+﻿sale_id,sale_date,product_id,product_name,category,quantity,unit_price,total_amount
+SALE0001,2026-11-07,IB001,Veg Puff,Puffs & Snacks,5,25,125
+SALE0002,2026-11-07,IB003,Aloo Bun,Buns & Rolls,4,20,80
+SALE0003,2026-11-07,IB006,Dil Pasand,Sweet Bakery,3,30,90
+SALE0004,2026-11-06,IB014,Samosa,Puffs & Snacks,6,20,120
+SALE0005,2026-11-06,IB010,Rusk (Pack),Biscuits & Rusk,2,50,100
+SALE0006,2026-11-06,IB002,Paneer Puff,Puffs & Snacks,2,35,70
+SALE0007,2026-11-05,IB001,Veg Puff,Puffs & Snacks,4,25,100
+SALE0008,2026-11-05,IB013,Veg Sandwich,Quick Bites,2,55,110
+SALE0009,2026-11-05,IB008,Honey Cake,Cakes,1,40,40
+SALE0010,2026-11-04,IB004,Masala Bun,Buns & Rolls,3,25,75
+SALE0011,2026-11-04,IB011,Butter Biscuits,Biscuits & Rusk,2,40,80
+SALE0012,2026-11-04,IB015,Cream Roll,Sweet Bakery,4,25,100
+SALE0013,2026-11-03,IB001,Veg Puff,Puffs & Snacks,7,25,175
+SALE0014,2026-11-03,IB014,Samosa,Puffs & Snacks,5,20,100
+SALE0015,2026-11-03,IB005,Khara Bun,Buns & Rolls,2,25,50
+SALE0016,2026-11-02,IB006,Dil Pasand,Sweet Bakery,4,30,120
+SALE0017,2026-11-02,IB009,Plum Cake Slice,Cakes,2,45,90
+SALE0018,2026-11-02,IB012,Khara Biscuit,Biscuits & Rusk,3,35,105
+SALE0019,2026-11-01,IB003,Aloo Bun,Buns & Rolls,5,20,100
+SALE0020,2026-11-01,IB013,Veg Sandwich,Quick Bites,3,55,165
+SALE0021,2026-11-01,IB010,Rusk (Pack),Biscuits & Rusk,2,50,100
+SALE0022,2026-10-31,IB002,Paneer Puff,Puffs & Snacks,3,35,105
+SALE0023,2026-10-31,IB007,Coconut Bun,Sweet Bakery,2,30,60
+SALE0024,2026-10-31,IB014,Samosa,Puffs & Snacks,4,20,80
+SALE0025,2026-10-30,IB001,Veg Puff,Puffs & Snacks,6,25,150
+SALE0026,2026-10-30,IB008,Honey Cake,Cakes,2,40,80
+SALE0027,2026-10-30,IB011,Butter Biscuits,Biscuits & Rusk,3,40,120
+SALE0028,2026-10-29,IB004,Masala Bun,Buns & Rolls,4,25,100
+SALE0029,2026-10-29,IB006,Dil Pasand,Sweet Bakery,3,30,90
+SALE0030,2026-10-29,IB015,Cream Roll,Sweet Bakery,2,25,50

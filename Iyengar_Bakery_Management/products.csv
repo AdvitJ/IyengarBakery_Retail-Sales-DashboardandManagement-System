@@ -1,0 +1,16 @@
+﻿product_id,product_name,category,price,stock,low_stock_threshold,active
+IB001,Veg Puff,Puffs & Snacks,25,42,8,True
+IB002,Paneer Puff,Puffs & Snacks,35,18,5,True
+IB003,Aloo Bun,Buns & Rolls,20,30,8,True
+IB004,Masala Bun,Buns & Rolls,25,24,6,True
+IB005,Khara Bun,Buns & Rolls,25,16,5,True
+IB006,Dil Pasand,Sweet Bakery,30,22,6,True
+IB007,Coconut Bun,Sweet Bakery,30,14,5,True
+IB008,Honey Cake,Cakes,40,12,4,True
+IB009,Plum Cake Slice,Cakes,45,10,4,True
+IB010,Rusk (Pack),Biscuits & Rusk,50,26,7,True
+IB011,Butter Biscuits,Biscuits & Rusk,40,20,6,True
+IB012,Khara Biscuit,Biscuits & Rusk,35,17,5,True
+IB013,Veg Sandwich,Quick Bites,55,15,5,True
+IB014,Samosa,Puffs & Snacks,20,35,8,True
+IB015,Cream Roll,Sweet Bakery,25,19,5,True
